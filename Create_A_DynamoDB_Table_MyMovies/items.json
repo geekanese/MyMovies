@@ -1,0 +1,248 @@
+{
+	"MovieCatalog": [{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "201"
+					},
+					"ProductCategory": {
+						"S": "Historical drama based on a book"
+					},
+					"Description": {
+						"S": "Lawrence of Arabia"
+					},
+					"DiskType": {
+						"S": "Bluray"
+					},
+					"ReleaseYear": {
+						"S": "1962"
+					},
+					"Runtime": {
+						"N": "227"
+					},
+					"Color": {
+						"S": "Color"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "403"
+					},
+					"ProductCategory": {
+						"S": "Thriller based on a book"
+					},
+					"Description": {
+						"S": "Jaws"
+					},
+					"DiskType": {
+						"S": "Bluray"
+					},
+					"ReleaseYear": {
+						"S": "1974"
+					},
+					"Runtime": {
+						"N": "122"
+					},
+					"Color": {
+						"S": "Color"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "411"
+					},
+					"ProductCategory": {
+						"S": "Quasi-biographical Drama"
+					},
+					"Description": {
+						"S": "Citizen Kane"
+					},
+					"DiskType": {
+						"S": "Bluray"
+					},
+					"ReleaseYear": {
+						"S": "1941"
+					},
+					"Runtime": {
+						"N": "119"
+					},
+					"Color": {
+						"S": "Black and white"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "563"
+					},
+					"ProductCategory": {
+						"S": "Action/Adventure"
+					},
+					"Description": {
+						"S": "Raiders of the Lost Ark"
+					},
+					"DiskType": {
+						"S": "Bluray"
+					},
+					"ReleaseYear": {
+						"S": "1981"
+					},
+					"Runtime": {
+						"N": "115"
+					},
+					"Color": {
+						"S": "Color"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "543"
+					},
+					"ProductCategory": {
+						"S": "Adventure/Comedy"
+					},
+					"Description": {
+						"S": "The Goonies"
+					},
+					"DiskType": {
+						"S": "Bluray"
+					},
+					"ReleaseYear": {
+						"S": "1985"
+					},
+					"Runtime": {
+						"N": "114"
+					},
+					"Color": {
+						"S": "Color"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "493"
+					},
+					"ProductCategory": {
+						"S": "Epic Science Fiction"
+					},
+					"Description": {
+						"S": "2001: A Space Odyssey"
+					},
+					"DiskType": {
+						"S": "Bluray"
+					},
+					"ReleaseYear": {
+						"S": "1968"
+					},
+					"Runtime": {
+						"N": "142"
+					},
+					"Color": {
+						"S": "Color"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "347"
+					},
+					"ProductCategory": {
+						"S": "Psychological Horror based on a novel"
+					},
+					"Description": {
+						"S": "The Shining"
+					},
+					"DiskType": {
+						"S": "Bluray"
+					},
+					"ReleaseYear": {
+						"S": "1980"
+					},
+					"Runtime": {
+						"N": "144"
+					},
+					"Color": {
+						"S": "Color"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "467"
+					},
+					"ProductCategory": {
+						"S": "Science Fiction Horror"
+					},
+					"Description": {
+						"S": "Alien"
+					},
+					"DiskType": {
+						"S": "Bluray"
+					},
+					"ReleaseYear": {
+						"S": "1979"
+					},
+					"Runtime": {
+						"N": "116"
+					},
+					"Color": {
+						"S": "Color"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "566"
+					},
+					"ProductCategory": {
+						"S": "Dystopian Crime"
+					},
+					"Description": {
+						"S": "A Clockwork Orange"
+					},
+					"DiskType": {
+						"S": "Bluray"
+					},
+					"ReleaseYear": {
+						"S": "1971"
+					},
+					"Runtime": {
+						"N": "136"
+					},
+					"Color": {
+						"S": "Color"
+					}
+				}
+			}
+		}
+
+
+	]
+}
